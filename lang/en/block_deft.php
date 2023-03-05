@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['activate'] = 'Activate';
-$string['activatemessage'] = 'This will contact the server and deftly.us and obtain and registration url to configure an LTI connection. It will then a External tool configuration to you site. This will be used to authenticate messages sent to clients to update the block content.';
+$string['activatemessage'] = 'This will contact the server and deftly.us and obtain a registration url to configure an LTI connection. It will then add an External tool configuration to you site. This will be used to authenticate messages sent to clients to update the block content.';
 $string['addchoice'] = 'Add choice';
 $string['addcomments'] = 'Add comments';
 $string['addtext'] = 'Add text';
